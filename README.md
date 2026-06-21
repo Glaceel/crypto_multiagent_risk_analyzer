@@ -2,7 +2,7 @@
 
 An advanced AI orchestrator built on Langflow that utilizes a Multi-Agent architecture to process structured financial data (.csv) and deliver autonomous risk management recommendations without numerical hallucinations.
 
-![Langflow Architecture](screenshot_canvas.png)
+![Langflow Architecture](Screenshot_2026-06-20_182336.png)
 
 ## 🌟 Key Features
 - **Multi-Agent Separation of Concerns**: 
