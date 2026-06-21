@@ -23,3 +23,10 @@ The system expects a historical price dataset in CSV format with the following s
 Date,Open,High,Low,Close,Volume
 2025-10-10,61000,62500,60800,62200,1500000000
 2025-11-25,58000,59000,53500,54000,3200000000
+
+## 🚀 How to Run
+1. Install and run **Langflow** (`pip install langflow`).
+2. Create a new flow and select **Upload Project**.
+3. Import the `crypto_multiagent_risk_analyzer.json` file from this repository.
+4. Insert your Gemini API Key in the LLM/Agent configurations.
+5. Upload your historical crypto CSV dataset into the **Read File** component and start chatting via **Chat Input**!
