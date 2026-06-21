@@ -23,6 +23,7 @@ The system expects a historical price dataset in CSV format with the following s
 Date,Open,High,Low,Close,Volume
 2025-10-10,61000,62500,60800,62200,1500000000
 2025-11-25,58000,59000,53500,54000,3200000000
+```
 
 ## 🚀 How to Run
 1. Install and run **Langflow** (`pip install langflow`).
