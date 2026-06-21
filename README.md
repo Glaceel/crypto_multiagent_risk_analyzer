@@ -2,7 +2,7 @@
 
 An advanced AI orchestrator built on Langflow that utilizes a Multi-Agent architecture to process structured cryptocurrency financial data (.csv) and deliver autonomous risk management recommendations without numerical hallucinations.
 
-![Langflow Architecture](screenshot_canvas.png)
+![Langflow Architecture](architecture.png)
 
 ## 🌟 Key Features
 - **Multi-Agent Separation of Concerns**: 
